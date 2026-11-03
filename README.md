@@ -90,13 +90,11 @@ Assumptions:
 
 Screenshots are in the `docs/` folder.
 
-![Swagger response](docs/swagger-response.png)
+
 *POST /agent response with the plan, assumptions and task log.*
 
-![Terminal progress](docs/terminal-executor-logs.png)
 *The executor working through its own task list.*
 
-![Generated Word file](docs/generated-word-file.png)
 *The Word file, with the assumptions list and a cost table with a Total row.*
 
 ## Engineering improvement: retry and fallback
